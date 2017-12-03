@@ -1,3 +1,3 @@
 //change to false to fail the build
-const isBuildSuccess = fail;
+const isBuildSuccess = true;
 module.exports = isBuildSuccess;
