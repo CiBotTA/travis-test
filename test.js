@@ -1,5 +1,5 @@
-const isBuildSuccess = require("./build.config");
-var assert = require('assert');
+// const isBuildSuccess = require("./build.config");
+// var assert = require('assert');
 
 // describe('Array', function() {
 //   describe('#indexOf()', function() {
@@ -9,9 +9,9 @@ var assert = require('assert');
 //   });
 // });
 
-describe("Build Fail or Success", function(){
-  it('should return true if build is success', function(){
-    assert.equal(true, isBuildSuccess);
-  })
+// describe("Build Fail or Success", function(){
+//   it('should return true if build is success', function(){
+//     assert.equal(true, isBuildSuccess);
+//   })
   
-});
+// });
