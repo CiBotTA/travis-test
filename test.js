@@ -15,4 +15,3 @@ describe("Build Fail or Success", function(){
   })
   
 });
-fail
